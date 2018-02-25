@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+
+
+var app = require('../index');
+
+app.on('error', err => {
+    console.error('server error', err)
+})
+
+app.listen(3000);
