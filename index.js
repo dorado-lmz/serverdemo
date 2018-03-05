@@ -1,7 +1,7 @@
 const Koa = require('koa');
 const koaBody = require('koa-body');
 
-var rules = require('./rules');
+var rules = require('./route');
 
 const app = new Koa();
 
