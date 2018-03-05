@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "uid": 1045548190,
+    "role": { "list": ["headline", "video_creator", "writings", "live"] },
+    "extData": {
+      "video_creator": {
+        "tv": {
+          "realName": "fffff",
+          "mobile": "19870011225",
+          "email": "fengantest3@163.com",
+          "orgName": "fengantest3@163.com",
+          "orgAddress": "北京市||东城区||asdfa",
+          "orgSynopsis": "fasdfasdf",
+          "synopsisPhoto":
+            "http://10.15.60.177:8080/v1/AUTH_7b950aeb070f49669a9031b76aab7c9c/2017/20170629174117_附件1-爱奇艺网剧付费分账合作说明.pdf",
+          "idPhone": null,
+          "movieLicencesPhoto": "19870011225",
+          "taxPhoto": "",
+          "businessLicencesPhoto":
+            "http://10.15.60.177:8080/v1/AUTH_7b950aeb070f49669a9031b76aab7c9c/2017/20170629174118_11111.jpg",
+          "orgCodePhoto": "",
+          "mergePhoto": 1
+        },
+        "movie": {
+          "realName": "王兵哈哈",
+          "mobile": "18519269437",
+          "email": "fengantest3@163.com",
+          "orgName": "爱奇艺网大测试",
+          "orgAddress": "北京市||东城区||fasefa",
+          "orgSynopsis": "ssss",
+          "synopsisPhoto":
+            "http://bjyunlou7.oss.qiyi.storage:8080/v1/AUTH_09cfe9c2859a43a28a0ebad201fb0e8d/201709/material/video/2017/09/11/6e/63/37/3c76fe173ddb43fe925d32e33228b7b6.pdf",
+          "idPhone": null,
+          "movieLicencesPhoto":
+            "http://bjyunlou7.oss.qiyi.storage:8080/v1/AUTH_09cfe9c2859a43a28a0ebad201fb0e8d/201709/material/video/2017/09/11/05/33/7c/ae183eec6b11428cb2ea1ef578ba9393.png",
+          "taxPhoto":
+            "http://bjyunlou7.oss.qiyi.storage:8080/v1/AUTH_09cfe9c2859a43a28a0ebad201fb0e8d/201709/material/video/2017/09/11/ee/64/0e/69efbecd9e15472381c28a16ccd347d1.png",
+          "businessLicencesPhoto":
+            "http://bjyunlou7.oss.qiyi.storage:8080/v1/AUTH_09cfe9c2859a43a28a0ebad201fb0e8d/201709/material/video/2017/09/11/1e/a1/1b/1aeeccce9ac24468a1ab91236c6b3ee1.png",
+          "orgCodePhoto":
+            "http://bjyunlou7.oss.qiyi.storage:8080/v1/AUTH_09cfe9c2859a43a28a0ebad201fb0e8d/201709/material/video/2017/09/11/03/97/eb/3e8fc8d681b540ffa2a42ede172fb5a8.png",
+          "mergePhoto": 0
+        },
+        "child": true,
+        "cartoon": true,
+        "education": true,
+        "ichannel": { "proEditor": true, "region": 0, "userType": 2 },
+        "videoPartner": null
+      },
+      "circles": null,
+      "finance": { "modules": ["income"] },
+      "kol": null,
+      "writings": [
+        { "source": "book", "type": 1, "comic": false, "book": true },
+        { "source": "comic", "type": 1, "comic": true, "book": false }
+      ],
+      "live": {
+        "channelIds": [1383],
+        "userName": null,
+        "idNumber": "314312432143",
+        "channelId": 6,
+        "nickName": null
+      },
+      "chat": true,
+      "paoPaoOffical": null,
+      "inWhiteList": false,
+      "mcnInfo": { "manager": true, "mcnId": 132321 },
+      "eduPrice": true
+    }
+  }
+}
